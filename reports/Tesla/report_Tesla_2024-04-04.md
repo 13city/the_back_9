@@ -1,0 +1,643 @@
+# Reconnaissance Report for Tesla
+Generated on Thu Apr  4 06:32:02 UTC 2024.
+
+## Executive Summary
+This document outlines the findings from the reconnaissance phase targeting Tesla.
+
+## Livedomains
+Total Livedomains: 260
+- https://akamai-apigateway-stg-translationpipeline.tesla.com
+- https://akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com
+- https://akamai-apigateway-finplateng-defi.tesla.com
+- https://akamai-apigateway-charging-ownership.tesla.com
+- https://akamai-apigateway-stg-payment.tesla.com
+- https://akamai-apigateway-shipmentplanningapi.tesla.com
+- https://akamai-apigateway-stg-deliveryopsvitu.tesla.com
+- https://akamai-apigateway-stg-fta.tesla.com
+- https://akamai-apigateway-ehs-stg.tesla.com
+- https://akamai-apigateway-mfs-supplier.tesla.com
+- https://akamai-apigateway-finplateng-routeone.tesla.com
+- https://akamai-apigateway-profileapi.tesla.com
+- https://akamai-apigateway-finplateng.tesla.com
+- https://akamai-apigateway-procuretopayapi.tesla.com
+- https://akamai-apigateway-packaging2.tesla.com
+- https://akamai-apigateway-stg-vendorpartsapi.tesla.com
+- https://akamai-apigateway-materials.tesla.com
+- https://akamai-apigateway-deliveryopsapi1.tesla.com
+- https://akamai-apigateway-einvoicing.tesla.com
+- https://akamai-apigateway-ops-warp3pl.tesla.com
+- https://akamai-apigateway-automation.tesla.com
+- https://akamai-apigateway-dev-warptmsapiserver.tesla.com
+- https://akamai-apigateway-captiveunderwriting.tesla.com
+- https://akamai-apigateway-payment.tesla.com
+- https://akamai-apigateway-stg-captiveunderwriting.tesla.com
+- https://akamai-apigateway-stg-einvoicing.tesla.com
+- https://akamai-apigateway-bender.tesla.com
+- https://akamai-apigateway-fta.tesla.com
+- https://akamai-apigateway-stg-procuretopayapi.tesla.com
+- https://akamai-apigateway-stg-finplateng-defi.tesla.com
+- https://akamai-apigateway-stg-deliveryopsapi.tesla.com
+- https://akamai-apigateway-stg-profileapi.tesla.com
+- https://akamai-apigateway-stg-materials.tesla.com
+- https://akamai-apigateway-inventorytxnextapi.tesla.com
+- https://akamai-apigateway-stg-finplateng-routeone.tesla.com
+- https://akamai-apigateway-logisticsratesapi.tesla.com
+- https://akamai-apigateway-stg-warp3pl.tesla.com
+- https://akamai-apigateway-stg-shipmentplanningapi.tesla.com
+- https://akamai-apigateway-dev-captiveunderwriting.tesla.com
+- https://akamai-apigateway-stg-finplateng.tesla.com
+- https://akamai-apigateway-stg-warpcxml.tesla.com
+- https://akamai-apigateway-stg2-deliveryopsapi.tesla.com
+- https://akamai-apigateway-stg-warptqpapi.tesla.com
+- https://akamai-apigateway-warp3pl.tesla.com
+- https://akamai-apigateway-stg-warpassetapi.tesla.com
+- https://akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com
+- https://akamai-apigateway-stg-warpdashboardapi.tesla.com
+- https://akamai-apigateway-stg-inventorytxnextapi.tesla.com
+- https://akamai-apigateway-stg-warptmsapiserver.tesla.com
+- https://akamai-apigateway-ehs.tesla.com
+- https://akamai-apigateway-warptqpapi.tesla.com
+- https://akamai-apigateway-warpdashboardapi.tesla.com
+- https://akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com
+- https://akamai-apigateway-warptmsapiserver.tesla.com
+- https://akamai-apigateway-warpcxml.tesla.com
+- https://akamai-apigateway-stg-ops-warp3pl.tesla.com
+- https://akamai-apigateway-warptmsapiserver-upgrade.tesla.com
+- https://akamai-apigateway-uat-materials.tesla.com
+- https://akamai-apigateway-warpassetapi.tesla.com
+- https://akamai-apigateway-stg-teslarpsapi.tesla.com
+- https://akamai-apigateway-warpedi.tesla.com
+- https://akamai-apigateway-translationpipeline.tesla.com
+- https://akamai-apigateway-teslarpsapi.tesla.com
+- https://api-firebolt-dev.tesla.com
+- https://api-firebolt-stage.tesla.com
+- https://apps.tesla.com
+- https://auth-global-stage.tesla.com
+- https://akamai-apigateway-deliveryopsapi.tesla.com
+- https://akamai-apigateway-qa-captiveunderwriting.tesla.com
+- https://api-firebolt.tesla.com
+- https://akamai-apigateway-zip3-suppliersequence.tesla.com
+- https://autobidder-preprd.powerhub.energy.tesla.com
+- https://auth.tesla.com
+- https://cdn-design.tesla.com
+- https://billing.tesla.com
+- https://akamai-apigateway-stg-warpedi.tesla.com
+- https://checkout-ui-assets.tesla.com
+- https://akamai-apigateway-deliveryopsvitu.tesla.com
+- https://cyberbeer.tesla.com
+- https://auth-global.tesla.com
+- https://cicerone.tesla.com
+- https://click.email.tesla.com
+- https://business-ui-ownership.tesla.com
+- https://courses.tesla.com
+- https://cdns-content.tesla.com
+- https://autobidder.powerhub.energy.tesla.com
+- https://digitalassets-secure.tesla.com
+- https://akamai-apigateway-vendorpartsapi.tesla.com
+- https://digitalassets-accounts.tesla.com
+- https://cx-apac.tesla.com
+- https://cld-ec.tesla.com
+- https://einvoicing.tesla.com
+- http://autodiscover.tesla.com
+- https://ehs.tesla.com
+- https://digitalassets-energy.tesla.com
+- https://digitalassets-contents.tesla.com
+- https://envoy-finplat-stg.tesla.com
+- https://digitalassets-shop.tesla.com
+- https://envoy-partnertasks.tesla.com
+- https://cx-api-apac.tesla.com
+- https://edr.tesla.com
+- https://errlog-stage.tesla.com
+- https://digitalassets.tesla.com
+- https://epc.tesla.com
+- https://digitalassets-learning.tesla.com
+- https://envoy-finplat-sunlight.tesla.com
+- https://bolt.tesla.com
+- https://errlog.tesla.com
+- https://external-sandbox-automation.tesla.com
+- https://financial-gw-stg.tesla.com
+- https://digitalassets-stage.tesla.com
+- https://finops.tesla.com
+- https://gpv.tesla.com
+- https://grid.tesla.com
+- https://gigabier.tesla.com
+- https://apf-api.prd.vn.cloud.tesla.com
+- https://image.emails.tesla.com
+- https://akamai-apigateway-stg-deliveryopsapi1.tesla.com
+- https://installations-ext-api.tesla.com
+- https://akamai-apigateway-stg-packaging2.tesla.com
+- https://inside.tesla.com
+- https://inventory-assets.tesla.com
+- https://akamai-apigateway-mfs-supplier-uat.tesla.com
+- https://ir.tesla.com
+- https://feedback.tesla.com
+- https://kronos-dev.tesla.com
+- https://employeefeedback.tesla.com
+- https://kronos.tesla.com
+- https://livestream.tesla.com
+- https://link.tesla.com
+- https://epcapi.tesla.com
+- https://livestreamapi.tesla.com
+- https://hnd13-gpgw1.tesla.com
+- https://location-services-prd.tesla.com
+- https://livestreamapi-test.tesla.com
+- https://logcollection.tesla.com
+- https://energydesk.tesla.com
+- https://logcollector-ext.tesla.com
+- https://image-emails.tesla.com
+- https://ams13-gpgw1.tesla.com
+- https://image.email.tesla.com
+- https://eaa-setup.tesla.com
+- https://energysupport.tesla.com
+- https://apf-api.eng.vn.cloud.tesla.com
+- https://mfs-supplier.tesla.com
+- https://dal11-gpgw1.tesla.com
+- https://fleet-api.prd.eu.vn.cloud.tesla.com
+- https://mfs-supplier-uat.tesla.com
+- https://fleetview.europe.fn.tesla.com
+- https://bi.tesla.com
+- https://fleet-api.prd.na.vn.cloud.tesla.com
+- https://dataviz.tesla.com
+- https://fra05-gpgw1.tesla.com
+- https://fleetview.fn.tesla.com
+- https://links.tesla.com
+- https://fleetview.prd.europe.fn.tesla.com
+- https://fleetview.america.fn.tesla.com
+- https://mfa.tesla.com
+- https://mfa-reset.tesla.com
+- https://mobile.tesla.com
+- https://iad05-gpgw1.tesla.com
+- https://lax32-gpgw1.tesla.com
+- https://fleetview.prd.america.fn.tesla.com
+- https://myapps.tesla.com
+- https://gridlogic.energy.tesla.com
+- https://mobile-links.eng.vn.cloud.tesla.com
+- https://mobile-ops-links.prd.vn.cloud.tesla.com
+- https://envoy-partnerleadsharing.tesla.com
+- https://link.qa.tesla.com
+- https://ion.tesla.com
+- https://mobile-links.prd.vn.cloud.tesla.com
+- https://engage.tesla.com
+- https://onboard.tesla.com
+- https://mobile-links-cdn.prd.vn.cloud.tesla.com
+- https://mobile-links-cdn.eng.vn.cloud.tesla.com
+- https://hub.tesla.com
+- https://npuv-prd.usw2.vn.cloud.tesla.com
+- https://ownership.tesla.com
+- https://partners.tesla.com
+- https://pay.tesla.com
+- https://powerhub.energy.tesla.com
+- https://pages.emails.tesla.com
+- https://ranger-api.tesla.com
+- https://profile.tesla.com
+- https://pages.email.tesla.com
+- https://repair.tesla.com
+- https://roadside.tesla.com
+- https://roadsideinvoice.tesla.com
+- https://sales-prd.tesla.com
+- https://secure-static-assets.tesla.com
+- https://reassignment-ui.tesla.com
+- https://schedule.tesla.com
+- https://pub.email.tesla.com
+- https://service.tesla.com
+- https://serviceapi-stg.tesla.com
+- https://serviceapi.tesla.com
+- https://serviceapp.tesla.com
+- https://shop.tesla.com
+- https://signaling-robotics.eng.vn.cloud.tesla.com
+- https://sin05-gpgw1.tesla.com
+- http://simpleorigin.tesla.com
+- https://solarbonds.tesla.com
+- https://sjc36-gpgw1.tesla.com
+- https://sso-dev.tesla.com
+- https://sso.tesla.com
+- https://sspr.tesla.com
+- https://stage-traffic-flow-test.tesla.com
+- https://static-assets-pay.tesla.com
+- https://static-assets-teslaaccount.tesla.com
+- https://static-assets.tesla.com
+- https://static-map.tesla.com
+- https://static.tesla.com
+- http://itanswers.tesla.com
+- https://stg-uc-twilio-bpm-webhook.tesla.com
+- https://syd14-gpgw1.tesla.com
+- https://tcc-graph-stg.tesla.com
+- https://tcc-graph.tesla.com
+- https://tcc-gw-stg.tesla.com
+- https://tcc-gw.tesla.com
+- https://teamchat.tesla.com
+- http://pm-bounces.tesla.com
+- https://tesla.com
+- https://teslacmgap01.tesla.com
+- https://teslacmgcn01.tesla.com
+- https://teslacmgeu01.tesla.com
+- https://teslacmgna01.tesla.com
+- https://teslatequila.tesla.com
+- https://teslacmgus01.tesla.com
+- https://toolbox.tesla.com
+- https://track.tesla.com
+- https://trt.tesla.com
+- https://tradepartnertickets.tesla.com
+- https://uicrashtracer.tesla.com
+- https://url1894.tesla.com
+- https://url4104.tesla.com
+- https://url2547.tesla.com
+- https://url4211.tesla.com
+- https://url5196.tesla.com
+- https://url4857.tesla.com
+- https://url7051.tesla.com
+- https://url5347.tesla.com
+- https://url6661.tesla.com
+- https://url8833.tesla.com
+- https://vehicle-files.prd.euw1.vn.cloud.tesla.com
+- https://vehicle-files.eng.usw2.vn.cloud.tesla.com
+- https://vehicle-files.eng.euw1.vn.cloud.tesla.com
+- https://vehicle-files.prd.usw2.vn.cloud.tesla.com
+- https://vmanage-alerts.tesla.com
+- https://workforce.tesla.com
+- https://www.tesla.com
+- https://warehouse.tesla.com
+- https://view.email.tesla.com
+- http://www-static-qa.tesla.com
+- http://www-static-prod.tesla.com
+- http://www-static-dev.tesla.com
+- http://www-static-stage.tesla.com
+- https://zta-setup.tesla.com
+- http://www-uat.tesla.com
+- http://xapps.tesla.com
+- http://xmail.tesla.com
+
+## Endpoints
+Total Endpoints: 1
+- flag provided but not defined: -l
+
+## Openports
+Total Openports: 367
+- Starting Nmap 9.99 ( https://nmap.org ) at 2024-04-04 06:31 UTC
+- Nmap scan report for akamai-apigateway-charging-ownership.tesla.com (23.207.180.53)
+- Host is up.
+- rDNS record for 23.207.180.53: a23-207-180-53.deploy.static.akamaitechnologies.com
+- PORT    STATE SERVICE  VERSION
+- 80/tcp  open  http?    
+- 443/tcp open  https?   
+- Nmap scan report for akamai-apigateway-logisticsratesapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-deliveryopsvitu.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-automation.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-ehs.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-dev-warptmsapiserver-upgrade.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-ehs-stg.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-shipmentplanningapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-einvoicing.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-teslarpsapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-captiveunderwriting.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warpdashboardapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-profileapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-payment.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-ops-warp3pl.tesla.com (23.207.180.53)
+- Nmap scan report for ams13-gpgw1.tesla.com (199.120.50.30)
+- rDNS record for 199.120.50.30: lax32-gpgw1.tesla.com
+- Nmap scan report for akamai-apigateway-stg-deliveryopsapi1.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warptmsapiserver-upgrade.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warp3pl.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-procuretopayapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-packaging2.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg2-deliveryopsapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-payment.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warptqpapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-vendorpartsapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-finplateng-defi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-deliveryopsapi1.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-fta.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warpassetapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warpassetapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-inventorytxnextapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-deliveryopsapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-procuretopayapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warpcxml.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-finplateng.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-fta.tesla.com (23.207.180.53)
+- Nmap scan report for api-firebolt-stage.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-teslarpsapi.tesla.com (23.207.180.53)
+- Nmap scan report for auth.tesla.com (23.207.180.53)
+- Nmap scan report for api.kronos.tesla.com (44.234.232.236)
+- rDNS record for 44.234.232.236: mobile.kronos.tesla.com
+- Nmap scan report for auth-global.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warpdashboardapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-translationpipeline.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-inventorytxnextapi.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warpcxml.tesla.com (23.207.180.53)
+- Nmap scan report for cicerone.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-uat-materials.tesla.com (23.207.180.53)
+- Nmap scan report for checkout-ui-assets.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-zip3-suppliersequence.tesla.com (23.207.180.53)
+- Nmap scan report for bolt.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-deliveryopsapi.tesla.com (23.207.180.53)
+- Nmap scan report for autodiscover.tesla.com (40.99.9.104)
+- PORT   STATE SERVICE  VERSION
+- 80/tcp open  http     Citrix NFuse
+- Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+- Nmap scan report for apps.tesla.com (23.207.180.53)
+- Nmap scan report for dal11-gpgw1.tesla.com (199.120.56.30)
+- rDNS record for 199.120.56.30: hnd13-gpgw1.tesla.com
+- Nmap scan report for cdn-design.tesla.com (23.207.180.53)
+- Nmap scan report for cyberbeer.tesla.com (23.207.180.53)
+- Nmap scan report for cdns-content.tesla.com (23.207.180.53)
+- Nmap scan report for darkfield.tesla.com (209.133.79.47)
+- rDNS record for 209.133.79.47: darkfield.tesla.com
+- PORT     STATE SERVICE  VERSION
+- 2083/tcp open  radsec?  
+- Nmap scan report for business-ui-ownership.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-deliveryopsvitu.tesla.com (23.207.180.53)
+- Nmap scan report for einvoicing.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-dev-warptmsapiserver.tesla.com (23.207.180.53)
+- Nmap scan report for cx-api-apac.tesla.com (23.207.180.53)
+- Nmap scan report for digitalassets-accounts.tesla.com (199.232.46.92)
+- rDNS record for 199.232.46.92: media.testbuddy.co
+- Nmap scan report for digitalassets-stage.tesla.com (199.232.46.1)
+- Nmap scan report for akamai-apigateway-warptqpapi.tesla.com (23.207.180.53)
+- Nmap scan report for email1.tesla.com (192.28.144.15)
+- rDNS record for 192.28.144.15: letgo.fivebelow.com
+- 25/tcp open  smtp?    
+- Nmap scan report for emails.tesla.com (13.111.18.27)
+- rDNS record for 13.111.18.27: orionimsw-fb.s10.exacttarget.com
+- 25/tcp open  smtp     Postfix smtpd
+- Service Info: OS: Unix
+- Nmap scan report for envoy-partnerleadsharing.tesla.com (23.207.180.53)
+- Nmap scan report for errlog-stage.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-vehicleextinfogw-prdsvc-st.tesla.com (23.207.180.53)
+- Nmap scan report for energysupport.tesla.com (204.141.42.74)
+- rDNS record for 204.141.42.74: help.coachusa.com
+- Nmap scan report for epuca-prd.usw2.vn.cloud.tesla.com (100.21.66.61)
+- rDNS record for 100.21.66.61: owner-api.teslamotors.com
+- Nmap scan report for epc.tesla.com (23.207.180.53)
+- Nmap scan report for envoy-partnertasks.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-shipmentplanningapi.tesla.com (23.207.180.53)
+- Nmap scan report for engage.tesla.com (18.165.171.49)
+- rDNS record for 18.165.171.49: server-18-165-171-49.otp50.r.cloudfront.net
+- Nmap scan report for financial-gw.tesla.com (199.66.9.77)
+- 80/tcp open  http?    
+- Nmap scan report for epcapi.tesla.com (23.207.180.53)
+- Nmap scan report for financial-gw-stg.tesla.com (23.207.180.53)
+- Nmap scan report for errlog.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-materials.tesla.com (23.207.180.53)
+- Nmap scan report for autobidder.powerhub.energy.tesla.com (23.15.108.101)
+- rDNS record for 23.15.108.101: energy.tesla.com
+- Nmap scan report for click.email.tesla.com (23.202.33.146)
+- rDNS record for 23.202.33.146: a23-202-33-146.deploy.static.akamaitechnologies.com
+- Nmap scan report for akamai-apigateway-stg-warpedi.tesla.com (23.207.180.53)
+- Nmap scan report for envoy-finplat-sunlight.tesla.com (23.207.180.53)
+- Nmap scan report for external-sandbox-automation.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-captiveunderwriting.tesla.com (23.207.180.53)
+- Nmap scan report for fra05-gpgw1.tesla.com (199.120.51.30)
+- rDNS record for 199.120.51.30: sin05-gpgw1.tesla.com
+- Nmap scan report for gigabier.tesla.com (23.207.180.53)
+- Nmap scan report for feedback.tesla.com (173.223.91.26)
+- rDNS record for 173.223.91.26: a173-223-91-26.deploy.static.akamaitechnologies.com
+- Nmap scan report for cx-apac.tesla.com (23.207.180.53)
+- Nmap scan report for billing.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-mfs-supplier.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-finplateng.tesla.com (23.207.180.53)
+- Nmap scan report for iad05-gpgw1.tesla.com (199.120.48.30)
+- rDNS record for 199.120.48.30: iad05-gpgw1.tesla.com
+- Nmap scan report for hnd13-gpgw1.tesla.com (199.120.52.30)
+- rDNS record for 199.120.52.30: hnd13-gpgw1.tesla.com
+- Nmap scan report for gridlogic.energy.tesla.com (23.15.108.101)
+- Nmap scan report for energydesk.tesla.com (204.141.42.74)
+- Nmap scan report for autobidder-preprd.powerhub.energy.tesla.com (23.15.108.101)
+- Nmap scan report for akamai-apigateway-finplateng-routeone.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-materials.tesla.com (23.207.180.53)
+- Nmap scan report for envoy-finplat-stg.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-packaging2.tesla.com (23.207.180.53)
+- Nmap scan report for ehs.tesla.com (23.207.180.53)
+- Nmap scan report for edr.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warp3pl.tesla.com (23.207.180.53)
+- Nmap scan report for itanswers.tesla.com (204.74.99.100)
+- rDNS record for 204.74.99.100: crs.ultradns.net
+- PORT     STATE SERVICE    VERSION
+- 80/tcp   open  http?      
+- 8080/tcp open  http-alt?  
+- Nmap scan report for grid.tesla.com (23.207.180.53)
+- Nmap scan report for inventory-assets.tesla.com (23.207.180.53)
+- Nmap scan report for kronos.tesla.com (23.207.180.53)
+- Nmap scan report for kronos-dev.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-finplateng-routeone.tesla.com (23.207.180.53)
+- Nmap scan report for image.email.tesla.com (42.99.140.193)
+- rDNS record for 42.99.140.193: a248.e.akamai.net
+- Nmap scan report for ion.tesla.com (23.207.180.53)
+- Nmap scan report for livestreamapi-test.tesla.com (23.207.180.53)
+- Nmap scan report for livestream.tesla.com (23.207.180.53)
+- Nmap scan report for fleetview.fn.tesla.com (44.231.72.244)
+- rDNS record for 44.231.72.244: ec2-44-231-72-244.us-west-2.compute.amazonaws.com
+- Nmap scan report for akamai-apigateway-stg-vendorpartsapi.tesla.com (23.207.180.53)
+- Nmap scan report for logcollector-ext.tesla.com (104.103.146.214)
+- rDNS record for 104.103.146.214: logcollector-ext.tesla.com
+- Nmap scan report for logcollection.tesla.com (23.207.180.53)
+- Nmap scan report for fleetview.prd.europe.fn.tesla.com (54.75.101.220)
+- rDNS record for 54.75.101.220: ec2-54-75-101-220.eu-west-1.compute.amazonaws.com
+- Nmap scan report for employeefeedback.tesla.com (173.223.91.26)
+- Nmap scan report for location-services-prd.tesla.com (23.207.180.53)
+- Nmap scan report for image-emails.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-warpedi.tesla.com (23.207.180.53)
+- Nmap scan report for gpv.tesla.com (199.120.53.29)
+- rDNS record for 199.120.53.29: gpv.tesla.com
+- Nmap scan report for akamai-apigateway-profileapi.tesla.com (23.207.180.53)
+- Nmap scan report for hub.tesla.com (23.62.148.211)
+- rDNS record for 23.62.148.211: a23-62-148-211.deploy.static.akamaitechnologies.com
+- Nmap scan report for mfa.tesla.com (23.207.180.53)
+- Nmap scan report for installations-ext-api.tesla.com (23.207.180.53)
+- Nmap scan report for mfa-reset.tesla.com (23.207.180.53)
+- Nmap scan report for apf-api.prd.vn.cloud.tesla.com (18.165.171.91)
+- rDNS record for 18.165.171.91: server-18-165-171-91.otp50.r.cloudfront.net
+- Nmap scan report for mobile.kronos.tesla.com (52.36.129.11)
+- rDNS record for 52.36.129.11: ec2-52-36-129-11.us-west-2.compute.amazonaws.com
+- Nmap scan report for mfs-supplier.tesla.com (23.207.180.53)
+- Nmap scan report for links.tesla.com (23.207.180.53)
+- Nmap scan report for myapps.tesla.com (23.207.180.53)
+- Nmap scan report for link.tesla.com (23.207.180.53)
+- Nmap scan report for dataviz.tesla.com (23.62.148.211)
+- Nmap scan report for digitalassets-shop.tesla.com (199.232.46.92)
+- Nmap scan report for digitalassets-secure.tesla.com (199.232.46.92)
+- Nmap scan report for apac-cppm.tesla.com (18.142.88.200)
+- rDNS record for 18.142.88.200: apac-cppm.tesla.com
+- Nmap scan report for apf-api.eng.vn.cloud.tesla.com (18.165.171.67)
+- rDNS record for 18.165.171.67: server-18-165-171-67.otp50.r.cloudfront.net
+- Nmap scan report for digitalassets.tesla.com (199.232.46.92)
+- Nmap scan report for onboard.tesla.com (23.207.180.53)
+- Nmap scan report for mobile.tesla.com (23.207.180.53)
+- Nmap scan report for origin-mobile.tesla.com (209.133.79.82)
+- rDNS record for 209.133.79.82: 209.133.79.82.IPYX-107208-ZYO.zip.zayo.com
+- Nmap scan report for akamai-apigateway-mfs-supplier-uat.tesla.com (23.207.180.53)
+- Nmap scan report for mobile-ops-links.prd.vn.cloud.tesla.com (44.231.72.244)
+- Nmap scan report for akamai-apigateway-qa-captiveunderwriting.tesla.com (23.207.180.53)
+- Nmap scan report for origin-sspr.tesla.com (199.66.11.36)
+- Nmap scan report for inside.tesla.com (23.207.180.53)
+- Nmap scan report for origin-wwwcdn.tesla.com (199.66.11.55)
+- Nmap scan report for mfs-supplier-uat.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warptmsapiserver.tesla.com (23.207.180.53)
+- Nmap scan report for origin-www.tesla.com (199.66.11.55)
+- Nmap scan report for cld-ec.tesla.com (23.207.180.53)
+- Nmap scan report for payment-public-stg.tesla.com (209.133.79.91)
+- rDNS record for 209.133.79.91: 209.133.79.91.IPYX-107208-ZYO.zip.zayo.com
+- Nmap scan report for pages.email.tesla.com (136.147.129.25)
+- rDNS record for 136.147.129.25: ck25.mta.exacttarget.com
+- Nmap scan report for partners.tesla.com (23.207.180.53)
+- Nmap scan report for pages.emails.tesla.com (13.111.18.25)
+- rDNS record for 13.111.18.25: pages.s10.exacttarget.com
+- Nmap scan report for pay.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-warptmsapiserver-upgrade.tesla.com (23.207.180.53)
+- Nmap scan report for ranger-api.tesla.com (23.207.180.53)
+- Nmap scan report for pm-bounces.tesla.com (3.142.105.20)
+- rDNS record for 3.142.105.20: api2.tendenciasab.com
+- 80/tcp  open  http     Apache httpd 2.4.58
+- 443/tcp open  http     ISS System Scanner Vista 1.0.2k
+- Nmap scan report for auth-global-stage.tesla.com (23.207.180.53)
+- Nmap scan report for profile.tesla.com (23.207.180.53)
+- Nmap scan report for pub.email.tesla.com (136.147.129.35)
+- rDNS record for 136.147.129.35: ck35.mta.exacttarget.com
+- Nmap scan report for courses.tesla.com (23.207.180.53)
+- Nmap scan report for reassignment-ui.tesla.com (23.207.180.53)
+- Nmap scan report for repair.tesla.com (23.207.180.53)
+- Nmap scan report for roadsideinvoice.tesla.com (23.207.180.53)
+- Nmap scan report for roadside.tesla.com (23.207.180.53)
+- Nmap scan report for bi.tesla.com (23.62.148.211)
+- Nmap scan report for sales-prd.tesla.com (23.207.180.53)
+- Nmap scan report for schedule.tesla.com (23.207.180.53)
+- Nmap scan report for secureguest.tesla.com (209.133.79.94)
+- rDNS record for 209.133.79.94: 209.133.79.94.IPYX-107208-ZYO.zip.zayo.com
+- Nmap scan report for secure-static-assets.tesla.com (23.207.180.53)
+- Nmap scan report for service.tesla.com (23.207.180.53)
+- Nmap scan report for shop.tesla.com (23.207.180.53)
+- Nmap scan report for sin05-gpgw1.tesla.com (199.120.53.30)
+- rDNS record for 199.120.53.30: sin05-gpgw1.tesla.com
+- Nmap scan report for finops.tesla.com (23.207.180.53)
+- Nmap scan report for simpleorigin.tesla.com (199.66.9.44)
+- Nmap scan report for serviceapi-stg.tesla.com (23.207.180.53)
+- Nmap scan report for sjc36-gpgw1.tesla.com (199.120.49.30)
+- rDNS record for 199.120.49.30: sin05-gpgw1.tesla.com
+- Nmap scan report for solarbonds.tesla.com (23.207.180.53)
+- Nmap scan report for serviceapp.tesla.com (23.195.152.146)
+- rDNS record for 23.195.152.146: api.solarcity.com
+- Nmap scan report for signaling-robotics.eng.vn.cloud.tesla.com (54.147.177.255)
+- rDNS record for 54.147.177.255: ec2-54-147-177-255.compute-1.amazonaws.com
+- Nmap scan report for akamai-apigateway-finplateng-defi.tesla.com (23.207.180.53)
+- Nmap scan report for api-firebolt-dev.tesla.com (23.207.180.53)
+- Nmap scan report for sso.tesla.com (23.207.180.53)
+- Nmap scan report for sso-dev.tesla.com (23.207.180.53)
+- Nmap scan report for serviceapi.tesla.com (23.207.180.53)
+- Nmap scan report for sspr.tesla.com (23.207.180.53)
+- Nmap scan report for static.tesla.com (23.207.180.53)
+- Nmap scan report for integration.kronos.tesla.com (54.148.233.28)
+- rDNS record for 54.148.233.28: integration.kronos.tesla.com
+- Nmap scan report for static-assets.tesla.com (23.207.180.53)
+- Nmap scan report for static-assets-teslaaccount.tesla.com (23.207.180.53)
+- Nmap scan report for static-assets-pay.tesla.com (23.207.180.53)
+- Nmap scan report for fleetview.america.fn.tesla.com (44.231.72.244)
+- Nmap scan report for akamai-apigateway-warptmsapiserver.tesla.com (23.207.180.53)
+- Nmap scan report for syd14-gpgw1.tesla.com (199.120.32.30)
+- rDNS record for 199.120.32.30: bom01-gpgw1.tesla.com
+- Nmap scan report for tesla.com (96.16.108.43)
+- rDNS record for 96.16.108.43: tesla.com
+- Nmap scan report for stage-traffic-flow-test.tesla.com (23.207.180.53)
+- Nmap scan report for fleet-api.prd.na.vn.cloud.tesla.com (100.21.66.61)
+- Nmap scan report for tcc-graph.tesla.com (23.207.180.53)
+- Nmap scan report for teslacmgap01.tesla.com (20.44.215.54)
+- rDNS record for 20.44.215.54: teslacmgap01.tesla.com
+- 443/tcp open  ftp      IIS ftpd 10.0
+- Nmap scan report for track.tesla.com (23.207.180.53)
+- Nmap scan report for lax32-gpgw1.tesla.com (199.120.54.30)
+- rDNS record for 199.120.54.30: sin05-gpgw1.tesla.com
+- Nmap scan report for tcc-gw-stg.tesla.com (23.207.180.53)
+- Nmap scan report for mobile-links.eng.vn.cloud.tesla.com (35.83.70.100)
+- rDNS record for 35.83.70.100: ec2-35-83-70-100.us-west-2.compute.amazonaws.com
+- Nmap scan report for akamai-apigateway-stg-translationpipeline.tesla.com (23.207.180.53)
+- Nmap scan report for digitalassets-learning.tesla.com (199.232.46.1)
+- Nmap scan report for tradepartnertickets.tesla.com (23.207.180.53)
+- Nmap scan report for akamai-apigateway-stg-ops-warp3pl.tesla.com (23.207.180.53)
+- Nmap scan report for trt.tesla.com (23.207.180.53)
+- Nmap scan report for url1894.tesla.com (167.89.115.150)
+- rDNS record for 167.89.115.150: sendgrid.net
+- Nmap scan report for tcc-graph-stg.tesla.com (23.207.180.53)
+- Nmap scan report for uicrashtracer.tesla.com (23.207.180.53)
+- Nmap scan report for teamchat.tesla.com (23.207.180.53)
+- Nmap scan report for url5196.tesla.com (167.89.123.54)
+- rDNS record for 167.89.123.54: o16789123x54.outbound-mail.sendgrid.net
+- Nmap scan report for url2547.tesla.com (167.89.123.54)
+- Nmap scan report for url4857.tesla.com (167.89.123.204)
+- rDNS record for 167.89.123.204: o16789123x204.outbound-mail.sendgrid.net
+- Nmap scan report for url4104.tesla.com (167.89.115.120)
+- rDNS record for 167.89.115.120: sendgrid.net
+- Nmap scan report for url5347.tesla.com (167.89.123.54)
+- Nmap scan report for static-map.tesla.com (23.207.180.53)
+- Nmap scan report for url6661.tesla.com (167.89.123.124)
+- rDNS record for 167.89.123.124: sendgrid.net
+- Nmap scan report for url8833.tesla.com (167.89.123.124)
+- Nmap scan report for npuv-prd.usw2.vn.cloud.tesla.com (52.13.146.54)
+- rDNS record for 52.13.146.54: ec2-52-13-146-54.us-west-2.compute.amazonaws.com
+- Nmap scan report for mobile-links-cdn.eng.vn.cloud.tesla.com (108.157.254.88)
+- rDNS record for 108.157.254.88: server-108-157-254-88.sin2.r.cloudfront.net
+- Nmap scan report for teslacmgna01.tesla.com (20.253.219.41)
+- rDNS record for 20.253.219.41: teslacmgna01.tesla.com
+- Nmap scan report for sc-cppm.tesla.com (35.160.144.101)
+- rDNS record for 35.160.144.101: ec2-35-160-144-101.us-west-2.compute.amazonaws.com
+- Nmap scan report for toolbox.tesla.com (23.207.180.53)
+- Nmap scan report for tcc-gw.tesla.com (23.207.180.53)
+- Nmap scan report for warehouse-stg.tesla.com (199.66.9.83)
+- Nmap scan report for www-static-dev.tesla.com (199.66.9.47)
+- Nmap scan report for vmanage-alerts.tesla.com (23.207.180.53)
+- Nmap scan report for workforce.tesla.com (23.207.180.53)
+- Nmap scan report for www-static-qa.tesla.com (199.66.9.47)
+- Nmap scan report for www-static-prod.tesla.com (199.66.9.47)
+- Nmap scan report for www-static-stage.tesla.com (199.66.9.47)
+- Nmap scan report for fleetview.prd.america.fn.tesla.com (44.231.72.244)
+- Nmap scan report for warehouse.tesla.com (23.195.152.83)
+- rDNS record for 23.195.152.83: a23-195-152-83.deploy.static.akamaitechnologies.com
+- Nmap scan report for stg-uc-twilio-bpm-webhook.tesla.com (23.207.180.53)
+- Nmap scan report for xapps.tesla.com (204.74.99.100)
+- Nmap scan report for www.tesla.com (23.207.180.53)
+- Nmap scan report for fleetview.europe.fn.tesla.com (54.75.101.220)
+- Nmap scan report for mobile-links.prd.vn.cloud.tesla.com (35.85.174.122)
+- rDNS record for 35.85.174.122: ec2-35-85-174-122.us-west-2.compute.amazonaws.com
+- Nmap scan report for livestreamapi.tesla.com (23.207.180.53)
+- Nmap scan report for teslacmgus01.tesla.com (20.66.127.201)
+- rDNS record for 20.66.127.201: teslacmgus01.tesla.com
+- Nmap scan report for akamai-apigateway-dev-captiveunderwriting.tesla.com (23.207.180.53)
+- Nmap scan report for vehicle-files.prd.euw1.vn.cloud.tesla.com (23.32.29.91)
+- rDNS record for 23.32.29.91: a23-32-29-91.deploy.static.akamaitechnologies.com
+- Nmap scan report for link.qa.tesla.com (167.89.115.150)
+- Nmap scan report for akamai-apigateway-stg-einvoicing.tesla.com (23.207.180.53)
+- Nmap scan report for ownership.tesla.com (23.207.180.53)
+- Nmap scan report for vehicle-files.prd.usw2.vn.cloud.tesla.com (23.32.29.99)
+- rDNS record for 23.32.29.99: www.kfc.com
+- Nmap scan report for xmail.tesla.com (204.74.99.100)
+- Nmap scan report for vehicle-files.eng.usw2.vn.cloud.tesla.com (23.32.29.91)
+- Nmap scan report for url7051.tesla.com (23.207.180.53)
+- Nmap scan report for image.emails.tesla.com (23.207.180.53)
+- Nmap scan report for teslacmgeu01.tesla.com (20.76.242.91)
+- rDNS record for 20.76.242.91: teslacmgeu01.tesla.com
+- Nmap scan report for mfa-stage.tesla.com (23.213.194.68)
+- rDNS record for 23.213.194.68: a23-213-194-68.deploy.static.akamaitechnologies.com
+- Nmap scan report for teslacmgcn01.tesla.com (20.239.26.4)
+- rDNS record for 20.239.26.4: teslacmgcn01.tesla.com
+- Nmap scan report for api-firebolt.tesla.com (23.207.180.53)
+- Nmap scan report for url4211.tesla.com (167.89.115.56)
+- rDNS record for 167.89.115.56: sendgrid.net
+- Nmap scan report for vehicle-files.eng.euw1.vn.cloud.tesla.com (23.32.29.88)
+- rDNS record for 23.32.29.88: a23-32-29-88.deploy.static.akamaitechnologies.com
+- Nmap scan report for www-uat.tesla.com (199.66.9.47)
+- Nmap scan report for zta-setup.tesla.com (23.213.194.68)
+- Nmap scan report for ir.tesla.com (23.207.180.53)
+- Nmap scan report for powerhub.energy.tesla.com (23.15.108.101)
+- Nmap scan report for mobile-links-cdn.prd.vn.cloud.tesla.com (108.157.254.14)
+- rDNS record for 108.157.254.14: server-108-157-254-14.sin2.r.cloudfront.net
+- Nmap scan report for akamai-apigateway-bender.tesla.com (23.207.180.53)
+- Nmap scan report for teslatequila.tesla.com (23.207.180.53)
+- Nmap scan report for view.email.tesla.com (136.147.129.32)
+- rDNS record for 136.147.129.32: ck32.mta.exacttarget.com
+- Nmap scan report for digitalassets-contents.tesla.com (199.232.46.92)
+- Nmap scan report for eaa-setup.tesla.com (23.62.148.211)
+- Nmap scan report for wdm.kronos.tesla.com (44.227.162.90)
+- rDNS record for 44.227.162.90: integration.kronos.tesla.com
+- 444/tcp open  snpp?    
+- Nmap scan report for digitalassets-energy.tesla.com (199.232.46.92)
+- Nmap done: 351 IP addresses (278 hosts up) scanned in 7.38 seconds
+
