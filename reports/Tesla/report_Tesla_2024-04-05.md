@@ -1,5 +1,5 @@
 # Reconnaissance Report for Tesla
-Generated on 2024-04-05 06:33:24.
+Generated on 2024-04-05 06:43:23.
 
 ## Executive Summary
 This document outlines the findings from the reconnaissance phase targeting **Tesla**.
@@ -11,5 +11,5 @@ This document outlines the findings from the reconnaissance phase targeting **Te
 **Total Endpoints: 1**
 
 ### Openports
-**Total Openports: 371**
+**Total Openports: 364**
 
